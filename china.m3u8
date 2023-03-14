@@ -1,0 +1,146 @@
+#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cn.xml" tvg-shift=0 m3uautoload=1
+
+#MAIN CCTV
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226721/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226711/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺 高清
+http://39.134.50.104:6610/PLTV/88888890/224/3221227038/1000.m3u8?tenantId=8601&IASHttpSessionId=RR1085920221212040441112474&rrsip=ltcottcdnfh.ln.chinamobile.com&bandwidth=9070400&ispcode=33
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226899/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5 体育 高清
+http://39.134.50.104:6610/PLTV/88888890/224/3221227041/1000.m3u8?tenantId=8601&IASHttpSessionId=RR1085920221212040441112474&rrsip=ltcottcdnfh.ln.chinamobile.com&bandwidth=9070400&ispcode=33
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226745/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影 高清
+http://39.134.50.104:6610/PLTV/88888890/224/3221227099/1000.m3u8?tenantId=8601&IASHttpSessionId=RR1085920221212040441112474&rrsip=ltcottcdnfh.ln.chinamobile.com&bandwidth=9070400&ispcode=33
+
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事 标准
+http://39.135.126.26:6610/PLTV/11/224/3221226905/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧 高清
+http://39.134.50.104:6610/PLTV/88888890/224/3221227102/1000.m3u8?tenantId=8601&IASHttpSessionId=RR1085920221212040441112474&rrsip=ltcottcdnfh.ln.chinamobile.com&bandwidth=9070400&ispcode=33
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 记录 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226734/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226702/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲 标准
+http://39.135.126.26:6610/PLTV/11/224/3221226753/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226736/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻 标准
+http://39.135.126.26:6610/PLTV/11/224/3221226729/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226720/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐 标准
+http://39.135.126.26:6610/PLTV/11/224/3221226796/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 高清
+http://39.135.126.26:6610/PLTV/11/224/3221227074/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农村农业 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226841/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#MAIN 省内节目
+
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226731/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.png" group-title="辽宁",辽宁都市 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226760/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.png" group-title="辽宁",辽宁影视剧 高清
+http://39.135.126.26:6610/PLTV/11/224/3221226738/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png" group-title="辽宁",辽宁体育 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226764/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",辽宁教育青少 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226763/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.png" group-title="辽宁",辽宁生活 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226761/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV8.png" group-title="辽宁",辽宁北方 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226755/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",辽宁移动电视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226982/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.png" group-title="辽宁",辽宁公共 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226766/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.png" group-title="辽宁",辽宁经济 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226735/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#MAIN 省外节目
+
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV 北京卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226724/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV 纪实科教 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226730/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天津 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226742/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226733/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226795/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226902/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226746/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226727/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视 标准
+http://39.134.50.106:6610/PLTV/11/224/3221226874/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226739/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226743/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226705/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226728/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226749/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226725/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226845/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实 高清
+http://39.134.50.106:6610/PLTV/11/224/3221226714/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
