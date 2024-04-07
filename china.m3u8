@@ -10,11 +10,10 @@ http://39.135.126.26:6610/PLTV/11/224/3221226721/index.m3u8?rrsip=ltcottcdnfh.ln
 http://39.135.126.26:6610/PLTV/11/224/3221226711/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="cctv",CCTV-3 综艺 高清
-http://39.135.126.26:6610/PLTV/11/224/3221227038/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
+http://39.135.126.26:6610/PLTV/11/224/3221227301/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="cctv",CCTV-4 中文国际 高清
 http://39.135.126.26:6610/PLTV/11/224/3221226899/index.m3u8?rrsip=ltcottcdnfh.ln.chinamobile.com&zoneoffset=0&servicetype=1
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="cctv",CCTV-5 体育 高清
 http://39.134.50.104:6610/PLTV/88888890/224/3221227041/1000.m3u8?tenantId=8601&IASHttpSessionId=RR1085920221212040441112474&rrsip=ltcottcdnfh.ln.chinamobile.com&bandwidth=9070400&ispcode=33
